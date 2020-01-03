@@ -1,2 +1,0 @@
-# dynamicTable
-Created with CodeSandbox
